@@ -13,6 +13,8 @@
 */
 const arrayObjectPegawai = require("./data-customer.json");
 
+console.log("mari kita coba")
+
 function lakukanLooping(arrPegawai) {
   // ! JANGAN DIMODIFIKASI
   let dataYangAkanDilooping = arrPegawai;
